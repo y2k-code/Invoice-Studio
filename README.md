@@ -35,6 +35,10 @@ Want a real `.exe`? Double-click **`build_exe.bat`** -> `dist\Invoice Studio\Inv
 
 Data lives in `%APPDATA%\InvoiceStudio\invoice_studio.db` (logo/signature are inside it, so a backup is a complete copy).
 Set the environment variable `INVOICE_STUDIO_HOME` to use another folder.
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/d3ec54ec-c4a9-403f-9220-a23060e6dbb5" />
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fa4f560a-5c76-47d6-9175-fcdc829a26d3" />
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/a70a38d2-5592-453d-a7dd-49f734299564" />
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/5e7b556a-2da0-4505-9a05-2d85a6d25790" />
 
 ## Notes
 
