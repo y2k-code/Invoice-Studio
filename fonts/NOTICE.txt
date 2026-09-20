@@ -1,0 +1,4 @@
+Poppins (Regular, Medium, Bold) is used for exported invoices.
+Copyright 2020 The Poppins Project Authors (https://github.com/itfoundry/Poppins)
+Licensed under the SIL Open Font License, Version 1.1 - https://openfontlicense.org
+If these files are missing, Invoice Studio falls back to Segoe UI / Arial on Windows.\
